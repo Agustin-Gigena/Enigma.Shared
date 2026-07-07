@@ -89,3 +89,4 @@ AzurePackages/
 
 # Linux
 Thumbs.db
+obj/
